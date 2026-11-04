@@ -12,7 +12,7 @@ Start with `backend/README.md` for MySQL setup, environment configuration, backe
    npm install
    npm run dev
    ```
-4. Open the Vite URL shown (normally http://localhost:5173).
+
 
 ## Workflow
 1. Start Ollama.
